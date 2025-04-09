@@ -19,3 +19,4 @@ class DB_Config {
         return $this->conexion; // Retorna el objeto de conexión
     }
 }
+
